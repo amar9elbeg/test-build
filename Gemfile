@@ -3,4 +3,4 @@ source 'https://rubygems.org'
 # You may use http://rbenv.org/ or https://rvm.io/ to install and use this version
 ruby '2.7.4'
 
-gem 'cocoapods', '1.8.0'
+gem 'cocoapods', ' 2.2.1
